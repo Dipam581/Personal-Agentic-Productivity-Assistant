@@ -1,0 +1,12 @@
+supabase
+# base64
+langchain
+python-dotenv
+langchain-groq
+langchain-tavily
+tavily-python
+langchain-core
+agno
+groq
+pydantic
+duckduckgo-search
