@@ -1,0 +1,22 @@
+supabase
+# base64
+langchain
+langchain-community
+python-dotenv
+langchain-groq
+langchain-tavily
+tavily-python
+langchain-core
+agno
+groq
+pydantic
+duckduckgo-search
+apache-airflow-providers-github
+apache-airflow[amazon]
+botocore
+boto3
+google-search-results
+streamlit
+streamlit_chat
+streamlit_extras
+great-tables

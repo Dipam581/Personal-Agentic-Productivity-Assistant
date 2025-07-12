@@ -1,0 +1,6 @@
+*
+!requirements.txt
+!.env
+!Dockerfile
+!src/
+!DB_utils/
